@@ -93,7 +93,7 @@ Exploratory Data Analysis was performed to understand the structure and patterns
   - Profitability Insights
   - Interactive Insights
 
- ![Financial Analysis Dashboard](images/dashboard.png)
+ ![Live Dashboard](images/dashboard.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
