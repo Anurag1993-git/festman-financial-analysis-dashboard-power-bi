@@ -120,9 +120,7 @@ Exploratory Data Analysis was performed to understand the structure and patterns
 
 Data Analyst
 
-📧 Email: anuragkdataanalyst@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/anuragkdatainsights/)  
-🔗 [Portfolio](https://www.canva.com/design/)
+Python | Data Analysis | Power BI | SQL
 
 
 
